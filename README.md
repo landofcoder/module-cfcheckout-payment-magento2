@@ -1,5 +1,5 @@
-# Magento 2 Module Lof Cfcheckout payment
+# Magento 2 Module Lof Cashfree Cfcheckout payment
+payment method [Cashfree](https://cashfree.com/)
 
 # Payment docs
-
-https://docs.cashfree.com/docs/
+[Cashfree Docs](https://docs.cashfree.com/docs/)
